@@ -1,0 +1,11 @@
+E:\Desktop\Examen-Primer-parcial\Appcore\bin\Debug\Appcore.dll
+E:\Desktop\Examen-Primer-parcial\Appcore\bin\Debug\Appcore.pdb
+E:\Desktop\Examen-Primer-parcial\Appcore\bin\Debug\Dominio.dll
+E:\Desktop\Examen-Primer-parcial\Appcore\bin\Debug\Infraestructura.dll
+E:\Desktop\Examen-Primer-parcial\Appcore\bin\Debug\Dominio.pdb
+E:\Desktop\Examen-Primer-parcial\Appcore\bin\Debug\Infraestructura.pdb
+E:\Desktop\Examen-Primer-parcial\Appcore\obj\Debug\Appcore.csprojAssemblyReference.cache
+E:\Desktop\Examen-Primer-parcial\Appcore\obj\Debug\Appcore.csproj.CoreCompileInputs.cache
+E:\Desktop\Examen-Primer-parcial\Appcore\obj\Debug\Appcore.csproj.CopyComplete
+E:\Desktop\Examen-Primer-parcial\Appcore\obj\Debug\Appcore.dll
+E:\Desktop\Examen-Primer-parcial\Appcore\obj\Debug\Appcore.pdb
